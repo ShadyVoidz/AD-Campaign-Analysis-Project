@@ -41,11 +41,12 @@ My main aim in this project is to put together all of the skills I have learnt f
 
 #### Questions I plan to answer:
 
-  1. 
-  2. 
-  3. 
+  1. What platform produces the best results for a campaign?
+  2. What content type produces the best results for a campaign?
+  3. What content type are viewers more likely to click onto?
   4. 
   5. 
+  6. 
 
 ---
 
