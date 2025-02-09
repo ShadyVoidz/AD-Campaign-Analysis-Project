@@ -44,9 +44,8 @@ My main aim in this project is to put together all of the skills I have learnt f
   1. What platform produces the best results for a campaign?
   2. What content type produces the best results for a campaign?
   3. Is there a correlation between the duration of the campaign and its results?
-  4. 
+  4. Is there a correlation between a campaigns budget and its results?
   5. 
-  6. 
 
 ---
 
